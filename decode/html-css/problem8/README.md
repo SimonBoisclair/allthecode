@@ -1,15 +1,18 @@
 ## Description
-The style.css file contains errors. Modify that file, and only that file, to produce the following output:
+The index.html has been deleted. It is your job to recreate it from scratch.
 ![goal](screenshot.png)
 
 ## Reference
 
-.classname {  
-    ...  
-}  
-#idname {  
-    ...  
-}  
-tagname {  
-    ...  
-}
+Your file should have this structure:
+
+```
+<html>
+   <head>
+       <link rel="stylesheet" type="text/css" href="style.css">
+   </head>
+   <body>
+      ...
+   </body>
+</html>
+```
