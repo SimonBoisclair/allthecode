@@ -7,7 +7,7 @@ The style.css file contains errors. Modify that file, and only that file, to pro
 .classname {  
     ...  
 }  
-&#35idname {  
+#idname {  
     ...  
 }  
 tagname {  
