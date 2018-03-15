@@ -4,12 +4,12 @@ The style.css file contains errors. Modify that file, and only that file, to pro
 
 ## Reference
 
-.classname {
-    ...
-}
-#idname {
-    ... 
-}
-tagname {
-    ...
+.classname {  
+    ...  
+}  
+&#35idname {  
+    ...  
+}  
+tagname {  
+    ...  
 }
