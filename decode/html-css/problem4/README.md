@@ -1,5 +1,6 @@
 ## Description
-An HTML and CSS file have been provided. Modify the CSS file so it matches the output.
+index.html and style.css files have been provided. Modify the modify style.css so it matches the following:
+![goal](screenshot.png)
 
 ## Reference
 

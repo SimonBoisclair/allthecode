@@ -1,5 +1,7 @@
 ## Description
-Write an HTML page that matches the screenshot provided. If you did not find the previous exercise easy, start from scratch.
+Write an HTML page that matches the following:
+![goal](screenshot.png)
+If you did not find the previous exercise easy, start from scratch.
 
 ## Reference
 

@@ -3,5 +3,6 @@ Load the index.html file directly in the browser. Then modify the DOM directly i
 
 ![goal](screenshot.png)
 
+When you are done, take a screenshot and place the file in this directory. Don't forget to push your repository so that the TAs and teacher can see it.
 
 
