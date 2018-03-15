@@ -1,15 +1,15 @@
 ## Description
-Modify the style.css file so that it recreates the following image
+The style.css file contains errors. Modify that file, and only that file, to produce the following output:
 ![goal](screenshot.png)
-
-It does not need to be pixel perfect
 
 ## Reference
 
-You will need to use the display css property and set it to flex. Furthermore, you will need the following properties:
-
-    height
-    text-align
-    border-style
-    margin
-    padding
+.classname {  
+    ...  
+}  
+#idname {  
+    ...  
+}  
+tagname {  
+    ...  
+}

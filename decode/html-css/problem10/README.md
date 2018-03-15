@@ -1,20 +1,27 @@
 ## Description
-Create an HTML file and a CSS file that reproduces the following:
+The style.css has been deleted. Write it again from scratch.
 ![goal](screenshot.png)
 
-It does not need to be pixel perfect
+## Reference
 
-Your HTML should have the following structure:
+You will need to use the following css properties:
+    text-align  
+    font-size  
+    background-color  
+    list-style-type  
+    text-decoration  
+    font-family  
+
+Here is the structure of a class file
 
 ```
-<html>
-   <head>
-       <link rel="stylesheet" type="text/css" href="style.css">
-   </head>
-   <body>
-      ...
-   </body>
-</html>
+.classname {  
+    ...  
+}  
+#idname {  
+    ...  
+}  
+tagname {  
+    ...  
+}
 ```
-
-Where style.css is the name of your css file.

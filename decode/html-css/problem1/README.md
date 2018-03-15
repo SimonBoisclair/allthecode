@@ -1,20 +1,8 @@
 ## Description
-Write an HTML page that matches the screenshot provided.
+Load the index.html file directly in the browser. Then modify the DOM directly in the browser so that it matches the following
 
 ![goal](screenshot.png)
 
+When you are done, take a screenshot and place the file in this directory. Don't forget to push your repository so that the TAs and teacher can see it.
 
-To solve this problem, you will have to look up the h1 to h5 tags. A solution is provided at the bottom. Try googling "h tags w3schools" for hints
-
-## Reference
-
-Your file should have this structure:
-
-```
-<html>
-   <body>
-      ...
-   </body>
-</html>
-```
 

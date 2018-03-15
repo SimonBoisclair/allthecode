@@ -1,22 +1,22 @@
-.container {
-    display: flex;
+.centered {
+    text-align:center;
 }
-
-.smol {
-    height:100px;
+#title {
+    font-size: 30pt;
 }
-
-.col {
-    text-align: center;
-    border-style: dashed;
-    margin:20px;
-    padding: 10px;
+#subtitle {
+    font-size:15pt;
 }
-
-.heading {
-   
+div {
+    background-color: gray;
 }
+li {
+    list-style-type: none;
+}
+#content {
+    text-decoration: underline;
 
-.section {
-    margin: 100px;
+}
+.monospaced {
+  font-family: monospace;
 }

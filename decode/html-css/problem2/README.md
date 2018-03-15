@@ -1,16 +1,10 @@
 ## Description
-Write an HTML page that matches the following:
+Load the index.html file directly in the browser. Then modify the style directly in the browser so that it matches the following
+
 ![goal](screenshot.png)
-If you did not find the previous exercise easy, start from scratch.
+
+You will NOT be creating any new files.
 
 ## Reference
-
-Your file should have this structure:
-
-```
-<html>
-   <body>
-      ...
-   </body>
-</html>
-```
+background-color: pink;
+font-size: 5pt;

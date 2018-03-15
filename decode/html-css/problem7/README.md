@@ -1,27 +1,8 @@
 ## Description
-The style.css has been deleted. Write it again from scratch.
+index.html and style.css files have been provided. Modify the modify style.css so it matches the following:
 ![goal](screenshot.png)
 
 ## Reference
 
-You will need to use the following css properties:
-    text-align  
-    font-size  
-    background-color  
-    list-style-type  
-    text-decoration  
-    font-family  
+In VSCode, use Edit > Replace (ctrl-H)
 
-Here is the structure of a class file
-
-```
-.classname {  
-    ...  
-}  
-#idname {  
-    ...  
-}  
-tagname {  
-    ...  
-}
-```

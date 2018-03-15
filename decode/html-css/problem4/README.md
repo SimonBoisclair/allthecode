@@ -1,8 +1,20 @@
 ## Description
-index.html and style.css files have been provided. Modify the modify style.css so it matches the following:
+Write an HTML page that matches the screenshot provided.
+
 ![goal](screenshot.png)
+
+
+To solve this problem, you will have to look up the h1 to h5 tags. A solution is provided at the bottom. Try googling "h tags w3schools" for hints
 
 ## Reference
 
-In VSCode, use Edit > Replace (ctrl-H)
+Your file should have this structure:
+
+```
+<html>
+   <body>
+      ...
+   </body>
+</html>
+```
 

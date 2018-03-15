@@ -1,18 +1,4 @@
 ## Description
-The index.html has been deleted. It is your job to recreate it from scratch.
+index.html and style.css files have been provided. Modify the CSS file so it matches the following:
 ![goal](screenshot.png)
 
-## Reference
-
-Your file should have this structure:
-
-```
-<html>
-   <head>
-       <link rel="stylesheet" type="text/css" href="style.css">
-   </head>
-   <body>
-      ...
-   </body>
-</html>
-```

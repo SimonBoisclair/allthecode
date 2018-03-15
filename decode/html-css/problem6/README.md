@@ -1,15 +1,7 @@
 ## Description
-The style.css file contains errors. Modify that file, and only that file, to produce the following output:
-![goal](screenshot.png)
+Modify the input HTML file so that it matches the output HTML file.
 
 ## Reference
 
-.classname {  
-    ...  
-}  
-#idname {  
-    ...  
-}  
-tagname {  
-    ...  
-}
+In VSCode, use Edit > Replace (ctrl-H)
+

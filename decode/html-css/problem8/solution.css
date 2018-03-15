@@ -1,22 +1,14 @@
-.centered {
-    text-align:center;
+.title {
+    font-size: 20pt;
+    text-align: center;
 }
-#title {
-    font-size: 30pt;
+.subtitle {
+    font-size: 15pt;
+    text-align: center;
 }
-#subtitle {
-    font-size:15pt;
+.content {
+   font-family: comic-sans;
 }
-div {
-    background-color: gray;
-}
-li {
-    list-style-type: none;
-}
-#content {
-    text-decoration: underline;
-
-}
-.monospaced {
-  font-family: monospace;
+.emph {
+    font-style: italic;
 }
