@@ -1,7 +1,3 @@
-## Description
-Rewrite the the following into JSX. Save it as input.js and run `npm build`. then open the index.html file.
-
-```
 var rootdiv = document.getElementById('root');
 var elem = React.createElement(
   'ul',
@@ -14,7 +10,7 @@ var elem = React.createElement(
   React.createElement(
     'li',
     null,
-    'bacon'
+    'bacon2'
   ),
   React.createElement(
     'li',
@@ -23,5 +19,3 @@ var elem = React.createElement(
   )
 );
 ReactDOM.render(elem, rootdiv);
-
-```

@@ -1,14 +1,10 @@
-## Description
-Rewrite the the following into JSX. Save it as input.js and run `npm build`. then open the index.html file.
-
-```
 var rootdiv = document.getElementById('root');
 var elem = React.createElement(
     "div",
     null,
     React.createElement(
         "a",
-        { href: "www.google.com" },
+        { href: "www.google.com2" },
         "Google.com"
     ),
     React.createElement(
@@ -18,4 +14,3 @@ var elem = React.createElement(
     )
 );
 ReactDOM.render(elem, rootdiv);
-```
